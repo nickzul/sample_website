@@ -1,13 +1,38 @@
+.image-link {
+  text-decoration: none;
+}
 
-  .nav-menu {
-    text-align: right;
-    background-color: #8ea7bf;
-    height: 50px;
-    padding: 30px 10px 0;
-    font-size: 20px;
-  }
-  .nav-spacing {
-    margin: 0 0 0 10px;
-    text-decoration: none;
-    color: #fafafa;
-  }
+.md-about {
+  width: 500px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #fafafa;
+}
+
+.md-img {
+  height: 200px;
+  float: left;
+  margin: 0 40px 0 0;
+}
+.moby-header {
+  text-align: center;
+  margin: 0 0 80px;
+}
+.nav-home {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.nav-menu {
+  text-align: right;
+  text-decoration: none;
+  background-color: #789494;
+  padding: 25px;
+
+}
+
+.nav-spacing {
+  color: #ffffff;
+  margin: 0 0 0 10px;
+  text-decoration: none;
+}
