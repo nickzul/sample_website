@@ -1,0 +1,13 @@
+
+  .nav-menu {
+    text-align: right;
+    background-color: #8ea7bf;
+    height: 50px;
+    padding: 30px 10px 0;
+    font-size: 20px;
+  }
+  .nav-spacing {
+    margin: 0 0 0 10px;
+    text-decoration: none;
+    color: #fafafa;
+  }
